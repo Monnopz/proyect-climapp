@@ -1,0 +1,1 @@
+export { weatherForecastMapper, weatherNowMapper } from '@/mappers/weather.mapper';
